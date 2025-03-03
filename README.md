@@ -1,5 +1,5 @@
 # AWS Services Overview for Email Notification System
-![Screenshot from 2025-03-01 21-17-51](https://github.com/user-attachments/assets/d68a284c-277c-416f-bd92-fba1ee284c58)
+![Diagram](https://github.com/user-attachments/assets/85fb3183-22d3-44de-b3f0-6e9a17905069)
 
 ## 1. **Amazon Simple Email Service (SES)**
 - **Purpose**: Send transactional emails (e.g., reminders) securely and at scale.  
